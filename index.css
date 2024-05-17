@@ -23,6 +23,17 @@
     font-size: 20px;  
 
 }
+.img-area{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 5% auto;
+    border: 15px groove deepskyblue;
+}
+.img-area img{
+   width: 100%; 
+}
 .sec-droite{
     margin-left: 150px;
     margin-left: 37px;
